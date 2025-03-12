@@ -12,7 +12,6 @@
 ##### Header 5
 ###### Header 6
 
-qua si ha un [link](www.google.com)
+Qua si ha un [link](www.google.com)
 
-
-ihjj
+[immagine](https://octodex.github.com/images/bannekat.png)
