@@ -32,7 +32,7 @@ Qua si ha un [link](www.google.com)
 >_Lanciando verso il cielo un urlo spaventoso,_  
 >_Che fa pensare a spiriti erranti e senza patria_  
 >_Che si mettano a gemere in maniera ostinata._  
->_- E lunghi funerali, senza tamburi o musica,_  
+>_E lunghi funerali, senza tamburi o musica,_  
 >_Sfilano lentamente nel cuore; la Speranza,_  
 >_Vinta, piange, e l'Angoscia, dispotica ed atroce,_  
 >_Infilza sul mio cranio la sua bandiera nera.._
