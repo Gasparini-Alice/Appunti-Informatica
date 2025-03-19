@@ -36,3 +36,12 @@ Qua si ha un [link](www.google.com)
 >_Sfilano lentamente nel cuore; la Speranza,_  
 >_Vinta, piange, e l'Angoscia, dispotica ed atroce,_  
 >_Infilza sul mio cranio la sua bandiera nera.._
+
+Qua si ha un **_elenco_**: 
+* E
+* L
+* E
+* N
+* C
+* O
+
